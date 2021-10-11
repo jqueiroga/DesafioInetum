@@ -1,0 +1,23 @@
+---
+- title: 'Mr.'      
+  firstName: 'Jeremias' 
+  lastName: 'Araújo'   
+  email: 'jqcaraujo@hotmail.com'
+  password: 'pwd123'   
+  dateBirth:
+    dayDateBirth: '24'       
+    monthDateBirth: 'October'  
+    ageDateBirth: '1981'     
+  newsletter: 'true'     
+  receiveOffers: 'true'     
+  company: 'Inetum'   
+  address:
+    address1: 'RUA DE TESTES, 100' 
+    address2: 'Apartment 405'        
+    city: 'Orlando'   
+    state: 'Florida'  
+    zipCode: '12345'    
+  addInformation: 'Nada à acrescentar'    
+  homePhone: '+5583123456789'  
+  mobilePhone: '+5583123456789'  
+  aliasAddress: 'ADDRESS TEST'   
